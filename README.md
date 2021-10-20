@@ -1,1 +1,13 @@
 # MVVM-DAGGER-RETROFIT-NAVIGATION-COMPONENT
+
+This project is designed with Java language and below listed technologies:
+
+- DAGGER2
+- RETROFIT
+- RXJAVA2
+- NAVIGATION COMPONENT (SINGLE ACTIVITY)
+- MVVM / LIVEDATA
+- MOSHI
+- CLEAN ARCHITECTURE
+
+
